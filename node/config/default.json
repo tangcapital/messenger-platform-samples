@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "6a92fae829252ad442dad59872379f5a",
+    "pageAccessToken": "EAACYoNd13yQBAJZAvPSbrtf95WM24ZBSZADknlAnZCAlAZCF4LybKDjomvZBgRIYleqUAGxJTZAUdJbwJ57PlnklT7mNW83wniO9bzsBti3ENQoq8AdHmT3KMysAa43FRZAmVuO5O7cj6I1vTjlaZAdiTrhp1NAkaYVfsDUYeK0MW5AZDZD",
+    "validationToken": "testbot_verify_token",
+    "serverURL": "https://developers.facebook.com/docs/messenger-platform/quickstart"
 }
